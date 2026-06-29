@@ -50,7 +50,7 @@ Acredito que aprender vai muito além da teoria. Por isso, gosto de colocar em p
 
 ---
 
-## ʙᴀᴄᴋ-ᴇɴᴅ
+<h2 data-importer="text" align="center">ʙᴀᴄᴋ-ᴇɴᴅ</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48"/>
@@ -62,7 +62,7 @@ Acredito que aprender vai muito além da teoria. Por isso, gosto de colocar em p
 
 ---
 
-## ꜰʀᴏɴᴛ-ᴇɴᴅ
+<h2 data-importer="text" align="center">ꜰʀᴏɴᴛ-ᴇɴᴅ</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48"/>
@@ -76,7 +76,7 @@ Acredito que aprender vai muito além da teoria. Por isso, gosto de colocar em p
 
 ---
 
-## ʙᴀɴᴄᴏ ᴅᴇ ᴅᴀᴅᴏꜱ
+<h2 data-importer="text" align="center">ʙᴀɴᴄᴏ ᴅᴇ ᴅᴀᴅᴏꜱ</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48"/>
@@ -88,7 +88,8 @@ Acredito que aprender vai muito além da teoria. Por isso, gosto de colocar em p
 
 ---
 
-## ꜰᴇʀʀᴀᴍᴇɴᴛᴀꜱ
+
+<h2 data-importer="text" align="center">ꜰᴇʀʀᴀᴍᴇɴᴛᴀꜱ</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48"/>
@@ -106,7 +107,7 @@ Acredito que aprender vai muito além da teoria. Por isso, gosto de colocar em p
 
 ---
 
-## ᴇꜱᴛᴀᴛíꜱᴛɪᴄᴀꜱ
+## ᴍɪɴʜᴀꜱ ᴇꜱᴛᴀᴛíꜱᴛɪᴄᴀꜱ
 
 <div align="center">
 
@@ -118,22 +119,7 @@ Acredito que aprender vai muito além da teoria. Por isso, gosto de colocar em p
 
 ---
 
-## ᴄᴏɴᴛᴀᴛᴏ
-
-<div align="center">
-
-📧 **Email**
-
-<a href="mailto:davidnovo275@gmail.com">davidnovo275@gmail.com</a>
-
-<br><br>
-
-🐙 **GitHub**
-
-<a href="https://github.com/davidzinnn2007">github.com/davidzinnn2007</a>
-
-</div>
-
+<h2 align="left">🌎 Vamos nos conectar</h2> <p align="left"> <a href="mailto:davidnovo275@gmail.com"> <img src="https://img.shields.io/badge/Gmail-davidnovo275%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <br><br> <a href="https://github.com/davidzinnn2007"> <img src="https://img.shields.io/badge/GitHub-davidzinnn2007-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
 ---
 
 <p align="center">
