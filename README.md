@@ -5,14 +5,9 @@
 </h4>
 
 <div align="center">
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="320" alt="Anime Coding"/>
+  <img src="https://media1.tenor.com/m/X9drSN03UMUAAAAC/satoru-gojo-acenando-satoru-gojo-hello.gif" width="340" alt="Gojo Acenando"/>
 </div>
-
 ---
-
-<table>
-<tr>
-<td width="65%" valign="top">
 
 ## 𝑺𝒐𝒃𝒓𝒆 𝒎𝒊𝒎
 
@@ -23,16 +18,6 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Meu principal objet
 Atualmente, dedico meus estudos principalmente a **Java** e **Python**, buscando dominar conceitos como **Programação Orientada a Objetos**, **APIs**, **Banco de Dados**, **Estruturas de Dados** e boas práticas de desenvolvimento. Ao mesmo tempo, venho aprendendo tecnologias do **Front-end** para desenvolver aplicações completas e ampliar minha visão sobre desenvolvimento web.
 
 Acredito que aprender vai muito além da teoria. Por isso, gosto de colocar em prática tudo o que estudo através de projetos pessoais e acadêmicos, sempre buscando escrever um código limpo, organizado e escalável.
-
-</td>
-
-<td width="35%" align="center">
-
-<img src="https://media.tenor.com/DimzPZMypFcAAAAC/luffy.gif" width="240"/>
-
-</td>
-</tr>
-</table>
 
 <p align="center">
 <i>"Sempre aprendendo, sempre evoluindo e transformando ideias em código."</i>
@@ -137,13 +122,15 @@ Acredito que aprender vai muito além da teoria. Por isso, gosto de colocar em p
 
 <div align="center">
 
-**📧 Email**  
+📧 **Email**
+
 <a href="mailto:davidnovo275@gmail.com">davidnovo275@gmail.com</a>
 
-<br>
+<br><br>
 
-**🐙 GitHub**  
-<a href="https://github.com/davidzinnn2007">@davidzinnn2007</a>
+🐙 **GitHub**
+
+<a href="https://github.com/davidzinnn2007">github.com/davidzinnn2007</a>
 
 </div>
 
@@ -151,10 +138,4 @@ Acredito que aprender vai muito além da teoria. Por isso, gosto de colocar em p
 
 <p align="center">
 <i>"Sempre aprendendo, sempre evoluindo e transformando ideias em código."</i>
-</p>
-
----
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/davidzinnn2007/davidzinnn2007/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
