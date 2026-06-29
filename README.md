@@ -83,6 +83,7 @@
 ###
 
 <div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/davidzinnn2007/davidzinnn2007/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="140" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=davidzinnn2007&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
