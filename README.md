@@ -1,70 +1,101 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is David Rodrigues
-========================================================================================================================================
+<h1 data-importer="text" align="center">Olá, Seja Bem-Vindo, Eu Sou David!</h1>
 
-Full Stack em formação • Java • Python • HTML • CSS
----------------------------------------------------
+###
 
-Tenho 19 anos e atualmente estou cursando o 4º período de Ciência da Computação. Sou apaixonado por tecnologia e estou sempre buscando aprender algo novo, seja através da faculdade, de projetos pessoais ou estudando por conta própria.
+<h4 data-importer="text" align="center">ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴇᴍ ꜰᴏʀᴍᴀçãᴏ • ᴊᴀᴠᴀ • ᴘʏᴛʜᴏɴ • ʜᴛᴍʟ • ᴄꜱꜱ</h4>
 
-Minha maior paixão é o desenvolvimento Back-end, principalmente utilizando Java e Python, linguagens que gosto de estudar e nas quais pretendo me especializar ao longo da minha carreira. Gosto de entender como os sistemas funcionam por trás das telas, criando aplicações eficientes, organizadas e escaláveis.
+###
 
-Ao mesmo tempo, acredito que um bom desenvolvedor nunca deve parar de aprender. Por isso, também estou estudando o universo do Front-end, aprendendo tecnologias como HTML, CSS e, futuramente, JavaScript e frameworks modernos. Meu objetivo é me tornar um profissional completo, capaz de entender tanto a lógica do servidor quanto a experiência do usuário.
+<h3 data-importer="text" align="left">𝑆𝑜𝑏𝑟𝑒 𝑚𝑖𝑚</h3>
 
-Além da programação, tenho interesse em áreas como:
+###
 
-☕ Desenvolvimento Back-end com Java
+<p data-importer="text" align="left">Tenho 19 anos e sou apaixonado por tecnologia e desenvolvimento de software. Meu principal objetivo é construir uma carreira como Desenvolvedor Full Stack, com um forte aprofundamento no Back-end, área que mais desperta meu interesse.<br><br>Atualmente, dedico meus estudos principalmente a Java e Python, buscando dominar conceitos como Programação Orientada a Objetos, APIs, Banco de Dados, estruturas de dados e boas práticas de desenvolvimento. Ao mesmo tempo, venho aprendendo tecnologias do Front-end para desenvolver aplicações completas e ampliar minha visão sobre desenvolvimento web.<br><br>Acredito que aprender vai muito além da teoria. Por isso, gosto de colocar em prática tudo o que estudo através de projetos pessoais e acadêmicos, sempre buscando escrever um código limpo, organizado e escalável.</p>
 
-🐍 Desenvolvimento Back-end e automações com Python
+###
 
-🗄️ Bancos de Dados (SQL e NoSQL)
+<h3 data-importer="text" align="left">𝑂𝑏𝑗𝑒𝑡𝑖𝑣𝑜𝑠</h3>
 
-🌐 Desenvolvimento Web
+###
 
-🔒 Segurança da Informação
+<p data-importer="text" align="left">Tornar-me um Desenvolvedor Full Stack com especialização em Back-end.<br>Aprofundar meus conhecimentos em Java e Python.<br>Aprender frameworks modernos como Spring Boot, React e Docker.<br>Desenvolver projetos cada vez mais robustos e escaláveis.<br>Conquistar uma oportunidade de estágio e evoluir continuamente como desenvolvedor.</p>
 
-☁️ Computação em Nuvem
+###
 
-⚙️ Arquitetura de Software
+<h2 data-importer="text" align="center">ʙᴀᴄᴋ-ᴇɴᴅ</h2>
 
-📚 Estruturas de Dados e Algoritmos
+###
 
-Acredito que programação vai muito além de escrever código. Resolver problemas, aprender constantemente e construir soluções que façam diferença é o que mais me motiva.
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
 
-Neste GitHub você encontrará projetos desenvolvidos durante meus estudos, trabalhos da faculdade e projetos pessoais, onde busco colocar em prática tudo o que estou aprendendo. Cada repositório representa uma etapa da minha evolução como desenvolvedor.
+###
 
-🎯 Objetivos
+<h2 data-importer="text" align="center">ꜰʀᴏɴᴛ-ᴇɴᴅ</h2>
 
-Me tornar um desenvolvedor Back-end de alto nível.
+###
 
-Aprofundar meus conhecimentos em Java e Python.
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+</div>
 
-Aprender tecnologias modernas de Front-end para me tornar Full Stack.
+###
 
-Construir projetos cada vez mais robustos.
+<h2 data-importer="text" align="center">ʙᴀɴᴄᴏ ᴅᴇ ᴅᴀᴅᴏꜱ</h2>
 
-Conseguir uma oportunidade de estágio e iniciar minha carreira na área de desenvolvimento de software.
+###
 
-Nunca parar de aprender.
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+</div>
 
-"Todo especialista já foi um iniciante que decidiu não desistir."
+###
 
-Seja bem-vindo ao meu perfil! Fique à vontade para explorar meus projetos e acompanhar minha evolução como desenvolvedor. 🚀
+<h2 data-importer="text" align="center">ꜰᴇʀʀᴀᴍᴇɴᴛᴀꜱ</h2>
 
-* 🌍  I'm based in Brasil
-* ✉️  You can contact me at [davidnovo275@gmail.com](mailto:davidnovo275@gmail.com)
-* 🧠  I'm currently learning Lógica de Programação Java Python HTML CSS
+###
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
-</p>
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
 
-### Socials
+###
 
-<p align="left"> <a href="https://www.github.com/davidzinnn2007" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
-### Badges
+<h3 data-importer="text" align="left">🔥   Minhas Estatísticas</h3>
 
-<b>My GitHub Stats</b>
+###
 
-<a href="http://www.github.com/davidzinnn2007"><img src="https://github-readme-stats.vercel.app/api?username=davidzinnn2007&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="davidzinnn2007's GitHub stats" /></a>
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=davidzinnn2007&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-<a href="https://github.com/davidzinnn2007" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidzinnn2007&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidzinnn2007/davidzinnn2007/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidzinnn2007/davidzinnn2007/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/davidzinnn2007/davidzinnn2007/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
+
+###
+
+<h6 data-importer="text" align="left">🌎 Vamos nos conectar<br>📧 Email: davidnovo275@gmail.com</h6>
+
+###
